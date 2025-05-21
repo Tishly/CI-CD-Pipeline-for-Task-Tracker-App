@@ -40,8 +40,8 @@ This repository contains the complete CI/CD pipeline setup for a Task Tracker ap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
-   cd task-tracker
+   git clone https://github.com/Tishly/CI-CD-Pipeline-for-Task-Tracker-App
+   cd CI-CD-Pipeline-for-Task-Tracker-App
    ```
 
 2. Start the local development environment:
